@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img" aria-label="Follow-up screenshot placeholder">
+  <rect width="1080" height="1920" fill="#fff7f0" />
+  <rect x="80" y="80" width="920" height="1760" rx="54" fill="#ffffff" stroke="#dfe4ef" stroke-width="6" />
+  <rect x="140" y="190" width="560" height="64" rx="20" fill="#ffe8d8" />
+  <rect x="140" y="300" width="800" height="980" rx="30" fill="#f7f8fb" stroke="#dfe4ef" stroke-width="4" />
+  <rect x="184" y="360" width="712" height="24" rx="12" fill="#d2d8e6" />
+  <rect x="184" y="410" width="650" height="24" rx="12" fill="#d2d8e6" />
+  <rect x="184" y="490" width="712" height="24" rx="12" fill="#d2d8e6" />
+  <rect x="184" y="540" width="590" height="24" rx="12" fill="#d2d8e6" />
+  <rect x="184" y="620" width="712" height="24" rx="12" fill="#d2d8e6" />
+  <rect x="140" y="1330" width="800" height="110" rx="55" fill="#3157d5" />
+  <text x="540" y="1400" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" fill="#ffffff" font-weight="700">Generate Follow-up</text>
+  <text x="540" y="1580" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" fill="#a8531f" font-weight="700">FOLLOW-UP PLACEHOLDER</text>
+</svg>

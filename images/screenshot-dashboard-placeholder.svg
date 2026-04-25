@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img" aria-label="Dashboard screenshot placeholder">
+  <rect width="1080" height="1920" fill="#eef2ff" />
+  <rect x="80" y="80" width="920" height="1760" rx="54" fill="#ffffff" stroke="#dfe4ef" stroke-width="6" />
+  <rect x="140" y="180" width="430" height="66" rx="20" fill="#e8edff" />
+  <rect x="140" y="290" width="800" height="170" rx="30" fill="#f7f8fb" stroke="#dfe4ef" stroke-width="4" />
+  <rect x="140" y="500" width="800" height="170" rx="30" fill="#f7f8fb" stroke="#dfe4ef" stroke-width="4" />
+  <rect x="140" y="710" width="800" height="170" rx="30" fill="#f7f8fb" stroke="#dfe4ef" stroke-width="4" />
+  <rect x="140" y="920" width="800" height="170" rx="30" fill="#f7f8fb" stroke="#dfe4ef" stroke-width="4" />
+  <text x="540" y="1320" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" fill="#233c94" font-weight="700">DASHBOARD PLACEHOLDER</text>
+  <text x="540" y="1400" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" fill="#657086">Replace with real app screenshot</text>
+</svg>

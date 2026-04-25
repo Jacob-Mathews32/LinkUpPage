@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img" aria-label="Login screenshot placeholder">
+  <rect width="1080" height="1920" fill="#f3f6ff" />
+  <rect x="80" y="80" width="920" height="1760" rx="54" fill="#ffffff" stroke="#dfe4ef" stroke-width="6" />
+  <rect x="140" y="220" width="260" height="46" rx="23" fill="#e8edff" />
+  <rect x="140" y="320" width="800" height="96" rx="24" fill="#f7f8fb" stroke="#dfe4ef" stroke-width="4" />
+  <rect x="140" y="450" width="800" height="96" rx="24" fill="#f7f8fb" stroke="#dfe4ef" stroke-width="4" />
+  <rect x="140" y="610" width="800" height="104" rx="52" fill="#3157d5" />
+  <text x="540" y="676" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" fill="#ffffff" font-weight="700">Sign In</text>
+  <text x="540" y="980" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" fill="#233c94" font-weight="700">LOGIN PLACEHOLDER</text>
+  <text x="540" y="1060" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" fill="#657086">Replace with real app screenshot</text>
+</svg>
